@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Kelly",
+  "age": 20,
+  "address": {
+    "street": "Zubo Park",
+    "city": "Vavvidjul",
+    "state": "MA",
+    "zip": "73466"
+  },
+  "contact": {
+    "phone": "(757) 411-6336",
+    "servicePhone": "800624821"
+  },
+  "birthday": "1983-05-20T22:29:53.984Z",
+  "ip": "199.84.43.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Wen ciuh kin jipowen luvkin usuahibis icu razez huh uzzepa vinnol puldal sufopi tim kuv zalwahbin muijzop depurdu. Vocwomaf gohji pojse wakmadsu ij vuabomu mizif vifujen pikohofot go kevgar peg ug. Emomubi nuura amzezo fusju ultiko ewdatti voif pa rih wove fitale bubhin butog saniriv odolad mat gevtimmih caf. Opupami lihu lursu luw jujboog kiwuni ojfumces namakbi niziblig julruuh odoace en penpo vis. Pa hu nalub uhe ihum imoge mo lehfuvfi pargi ha luedo jubzelko. Ozufiav ukros deptejop ragaco tok nun mahbopar kec ficomat afasop tih sakhebu izulifub. Puj gocisnek do nufef ni fukugav law tawduscom vum suekoir mi aruwara tad motvo furha oruiwu zulvur.",
+    "bio": "Capfoj wet do diku afme go jiwovo de la hif wuvanize ib ozpahde riger ak. Hotu ado im ra nogibrad habagi ahjej sifpa liro luwa hatme vem ufo hokwijvun cacujkub noz. Timdoh peorpo deadotot kuwkowdej bot ucadimodi arovocod en paisewo fen del wi muskolnaz ca."
+  },
+  "apiKey": "2c3e4d5f4e1fda9265f7fa2b8942417da8b7f6638bb91b795e4313aaf119847d",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
