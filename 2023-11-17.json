@@ -1,0 +1,26 @@
+{
+  "name": "Mark Garza",
+  "age": 25,
+  "address": {
+    "street": "Ruwmif Mill",
+    "city": "Tajokful",
+    "state": "MD",
+    "zip": "94115"
+  },
+  "contact": {
+    "phone": "(424) 891-8250",
+    "servicePhone": "800269984"
+  },
+  "birthday": "1981-05-02T00:45:36.246Z",
+  "ip": "65.248.131.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Avese zatisrij si azetupto fadof ogafal joc op tuliwu favesa iho fe je med ulro mufobu joafgo. Tu nigak esorur jucew avi sihezi erajez vasida fikeczo bej bujju mecuno arutadu gaca. Ektemma le soc kam to wojec josu tif use arban gobga wabo.",
+    "bio": "Idi oho edihip iweiwuroh jumu gesecfe kawus omfagwu uki tisa pezuc cavrelto nawuf do. Lanrem je ru ja miinoahu lir touhejis hev etoko now safobma bocvouw. Gil em sij aze tobesa kurgucaf ufwa lo ubirisi jo jafus ujilis inakimece dugci zezhofep kod."
+  },
+  "apiKey": "7c23cbc26760b8c43bc2c28401881f9a3a11b5dfc874aa9dd7a541c2141acabc",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
