@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Reeves",
+  "age": 60,
+  "address": {
+    "street": "Pofuc Path",
+    "city": "Gafogzu",
+    "state": "DE",
+    "zip": "17484"
+  },
+  "contact": {
+    "phone": "(409) 281-1191",
+    "servicePhone": "800524922"
+  },
+  "birthday": "1963-09-24T01:39:18.990Z",
+  "ip": "68.226.202.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Pah ek rofdig ber suwoli elepazbi suj ju omurazsoj eji pecpuhuvo jujoj niza ke covseoro zanjov kogosnu vazudar. Pufzifo pof fik zu wu hufifni gura ta ferec sur pevcu weaca wouzu saboman ako. Fi tocpug cetrevon iwdozuwu hefcir uwoceleg mitwukeh muk sizjivag digavgip isenkah fevzat huczejhu laklus mezpaka hepih mepebim to.",
+    "bio": "Wegusivon sed jevunu ca desluak limte ana duza nozle odmekgor zetuk zafofzol itobif. Foviv kuslofi bozpal vuowu siet og uwo ju wapzunub ca nauvir ji guf ponevgud geflaf. Zamlifil ma leprozu bi cag dinlu naratowu ilmi vuasa nijgecaw we guluklar."
+  },
+  "apiKey": "7f4d1684edad53b807dd8f28594ed6ec32aa72386c096ebdd80c63aacb623add",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
