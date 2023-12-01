@@ -1,0 +1,26 @@
+{
+  "name": "Dean Smith",
+  "age": 53,
+  "address": {
+    "street": "Ipahag Junction",
+    "city": "Urzosa",
+    "state": "MS",
+    "zip": "89443"
+  },
+  "contact": {
+    "phone": "(725) 338-4345",
+    "servicePhone": "800225629"
+  },
+  "birthday": "1994-09-15T04:32:37.588Z",
+  "ip": "102.119.60.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Ujaat ravibu sismah lihaga hu to nulile guf falilu jin tanidi enge matge gizosuh. Su huz nuncecvit leufime wofol butedsed ha tiudfi jeoke midew nabjolkip wu wuovuwi ima. Odabet icaka maw cotpam coupe vam diljuswe ah ri revwiip tikok guma ha ket jeetejar waznehod adocet.",
+    "bio": "Sufribda ejavuji zozajmuz paslurre ezo ret jogzo gu ju hijnen caziij zade. Na efisunek da juscos gaeg sapup pagujzov giki hipi adedenkib vi bojfun dafam sohnij puhu vihuti. Ki awu mumper vimiva boc pecbog run rejeru wukwu ke newsas ju isgewdah. Mones ed pi giub licsihsu baptub gedu jumun pozsin ihcofu ta riffotpot leweliw uflus hakezu."
+  },
+  "apiKey": "8b6e3a1da64c67ac935ab530d50c99e91bfe8fd6190a11e7d22d5402eb6793c7",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
