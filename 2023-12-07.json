@@ -1,0 +1,26 @@
+{
+  "name": "Marie Nunez",
+  "age": 46,
+  "address": {
+    "street": "Zarril Street",
+    "city": "Bajfaddiv",
+    "state": "TX",
+    "zip": "86413"
+  },
+  "contact": {
+    "phone": "(606) 454-1248",
+    "servicePhone": "800849155"
+  },
+  "birthday": "1965-03-29T08:44:28.697Z",
+  "ip": "29.152.147.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Ragriujo lokwi gez ta ji hafnoc ka ma lowiswip watkoswi tivosuh zul walzuwoz imcuaz numbuc. Gis cazfecmil bitemonuk toj ras veladuzi daab wumwivko rut siz edudabol radamav une. Udragdok za oziide ce zucahsa kamrut fajoowa wuovogih ocuwawa pijagzet uga atevip harjud elioro ut peclawas hukteuju suehtu. Hugvetda ga mezbo wac kavalo dan zeujemir akamisjid cuhfelbi arepiz bus riafla tiimuke falelmup kengo hufog gizmacir. Ni hur abekiw deravsa oklifro rire ce ishipod rorid hiwkem go zorad.",
+    "bio": "Ofake unikope jijgutvoj je unosuw sedag iluwur zal akbotsu satabewe dajgi hubojdap egeowu eheakiz. Sopoveda kafzol ziwe tuof zenvidcew haz lem uriceswaf hu pok tizab jedofa ge vougowu mu soniwa vudwu wa. Ko ladne ubhac ruwpotab tafvo jofita ola nokenig ne saddat vezfukagu noruc efopes iz jiaru. Inhun duwkeg ap gettun oliapu ne titan piwvuhid bu notcagbi as oniz ibponci sem dos si falda zec."
+  },
+  "apiKey": "853902b3c0eba55dac2b1f3cf07ac8eb3f67c5dadae96b315deed11e26b6a371",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
