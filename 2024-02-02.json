@@ -1,0 +1,26 @@
+{
+  "name": "Dylan Hudson",
+  "age": 21,
+  "address": {
+    "street": "Redzal Drive",
+    "city": "Zovecuco",
+    "state": "MT",
+    "zip": "65007"
+  },
+  "contact": {
+    "phone": "(752) 654-8300",
+    "servicePhone": "800662177"
+  },
+  "birthday": "1989-02-19T06:28:50.854Z",
+  "ip": "240.118.180.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Vutogolec ka unec lihi jub mur wijtuw tega ackep esamu zu fedci jubevofu. Musa nabiz fudohav es vuumara kama hiwfobu ojke pi cohtevcas lecad jatdowup. Gelepub la buijeale aj bebiuvu zo mu zihe jo fene mal nawekud.",
+    "bio": "Mihol eseco ocagegsal ifpus we salusros me tu mon mopnimac fevritafe if wu tecuw gofdoz mofeg vic. Sa icukpop coca boowgab coruz betlufvu nokbon bi dul arotis moawaih oj afu juhol koag epoaweon mijic gabohego. Sumiza sop ubilun sufudko boebi za mopmig vunelu ezu ewi zaawe wogfo figvot."
+  },
+  "apiKey": "5960f14d6f46e529ec5e293fb7e5df0096d6e901c6a3ad3370106a1395e8f52e",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
