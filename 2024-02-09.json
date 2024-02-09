@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Farmer",
+  "age": 35,
+  "address": {
+    "street": "Korac Way",
+    "city": "Rudibi",
+    "state": "OH",
+    "zip": "77828"
+  },
+  "contact": {
+    "phone": "(906) 617-8282",
+    "servicePhone": "800144556"
+  },
+  "birthday": "1981-06-06T01:37:10.741Z",
+  "ip": "134.205.145.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Lowle rol midagnub zalig hoh bivhih fif cutnivod wem putsuf mabfovzi jegpi tiel boib ehsad ag rawtakaz he. Ihace imisas bitam fuzahhur oc eksi gul gekutlaz bo sazkah bovmugja tecose taebmu fekoip jar nic za. Cahnalrom jompaci sute si acbohin ket ozutoh fuz zow mabnavci eb cuniz viniwok kuz nikga. Ret rej omucicud fenbekhub pijic odjo ajanakol zalurso issame perbep fog paztotje sugekwof ku tutpel du ojupu hupalob. Ciwbip ge sa liv tekun baej ovo ugewil ila opbafit ubibut damzuzlum bi.",
+    "bio": "Uce iso doshuswiz noeb ofosa fa peji ap pelresus keirifa soju wiv nakbazu moigu ume isigot hun le. Felagba fasurbo bop borif hijowzi wu ev nire mepha dokza ijeganun keh. Robzo wab ga cezuut nonfo romoj nufib acegete is lic iwveb tilrerbic newiwoz uvne ucuwe ladsat."
+  },
+  "apiKey": "8f8e5e41dbd70ab8a558f5b95f71ae00e97a33695002423c65dece9357be1f19",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
