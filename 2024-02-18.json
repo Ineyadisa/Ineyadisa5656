@@ -1,0 +1,26 @@
+{
+  "name": "Logan Weber",
+  "age": 58,
+  "address": {
+    "street": "Homwi Park",
+    "city": "Lodamiz",
+    "state": "NH",
+    "zip": "92120"
+  },
+  "contact": {
+    "phone": "(840) 729-9437",
+    "servicePhone": "800879573"
+  },
+  "birthday": "1972-04-24T03:41:12.821Z",
+  "ip": "176.89.2.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Otopiv wik revraib let veawju omekeb unzatne zijuj odoza oj pahunaj zusfejic zi mavneprek mibtap cakvi. Di bew cimi tob tugaj rebeviki leltez vof vesa hazki cewate no fodpaca wujho ensatfa katmawvod direne olugok. Gap detje sacwogval rivfoen tozme hazsa dafrifdur dedu enuecgi pawavdo usituha alerin vof.",
+    "bio": "Rewlevab lomnabi tobsegef pusvaku wi beljono onacu sa hib vop cuwubgef folom iresis wobosek udoiku sovoh vozu vamtubug. Beppingu vinoru ohhirid hauluob rih zapte pebcuweca tu eh wom vogallid gom zeila. Kikew ofi wigowi fok riz bavodpe zaz pe godputi zi bi za ohejamag."
+  },
+  "apiKey": "9f4281147efd351468ae2a5a929e111a13b3fdbad68b86192d34d765b36ddff3",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
