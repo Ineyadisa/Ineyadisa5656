@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Chambers",
+  "age": 39,
+  "address": {
+    "street": "Digta Terrace",
+    "city": "Azodlar",
+    "state": "FL",
+    "zip": "13989"
+  },
+  "contact": {
+    "phone": "(749) 203-1672",
+    "servicePhone": "800621435"
+  },
+  "birthday": "1967-03-19T06:55:34.429Z",
+  "ip": "248.232.210.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Rulbik tim ojbagor begokom but fefzaci hivog ele icozuev ga daseslaj febov ve dispi elohala aklu ja azu. Izdagraf uggu hescuh nu jupgi voiv watruewa ce fectezec ikonem gezwo vo. Fop wif zawehoek fi noiwuifa bo fac tu jurvarin lozej ze gar sogpus la jid so it. Asufoar ufacevi famube wur cozede ces daahel mu refod ven otgog man peh zanceivo ce nut caf.",
+    "bio": "Izlep renseoso zurofimu ovew hoofamoh lobu avawa ejudewlem anul lage pamuop hu oda daf pa hi. Vocinac zavgom buzuvlo nokad padsin oglom gu zuzuh miv atdub rodev sej. Pe gaugoci urbetjub amojug hivulroz filik vuebi nutubuik zada en karot wovpizu nahluc mehawe temku idad cebap."
+  },
+  "apiKey": "58544411fefcae70ba151958694d40f5402ff71f58be996d9c8c89dac536c426",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
