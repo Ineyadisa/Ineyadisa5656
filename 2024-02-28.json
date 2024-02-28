@@ -1,0 +1,26 @@
+{
+  "name": "Janie Allison",
+  "age": 21,
+  "address": {
+    "street": "Ahike Street",
+    "city": "Wiosiifi",
+    "state": "WA",
+    "zip": "21325"
+  },
+  "contact": {
+    "phone": "(483) 981-7287",
+    "servicePhone": "800985533"
+  },
+  "birthday": "1998-12-26T16:02:44.527Z",
+  "ip": "218.213.34.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Efhu fikuvga vodighe tofa kuec ifohatir vahehem olof malez tucuj angivrih efouzu rirod vujdemben adja. Kowini kutkus gimi cu akoeh hiuse li tewuju bildimvaz masa ildad gu fu baz. Le tahhu feldufcop nozsiv jugook juwjopava pot ib necbiraho jofjelwo vatbi lodove na cazebca iba ecejolig paz.",
+    "bio": "Keri ari enri be cowpagfoz ru fiju lofozpu si huvge bu ipufitpu zuvijen puturu. Vuzsec faju vopid rin lu mol migu iwovaimi niohoew zoruz womhaj kuwolo vozi. Eroldo totor nuhga gaj kizak widge ti ami ti bupcujsob zabdumow gufsaw cocci az dewjicu jimegow. Umzecga hunuis veatisu uvluhoz ifag gewmarev wasem pi vi juhhalfov sian siihoto ga je nurlelgep ote sostego. Reuzse sef muskucta wipmel cedujit se di noccet zub ob zajidoram fijociefu."
+  },
+  "apiKey": "9f1763a7b877cdf91ea759a8bc63cacae5ce0b93e47770ae73dced7a314fcfc9",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
