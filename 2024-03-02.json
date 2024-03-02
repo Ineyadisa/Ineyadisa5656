@@ -1,0 +1,26 @@
+{
+  "name": "Julia Murphy",
+  "age": 26,
+  "address": {
+    "street": "Lufa Highway",
+    "city": "Aboarela",
+    "state": "DE",
+    "zip": "14982"
+  },
+  "contact": {
+    "phone": "(429) 800-6298",
+    "servicePhone": "800418595"
+  },
+  "birthday": "1969-09-02T18:38:17.705Z",
+  "ip": "99.168.76.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Koum gid moeze gopariru nimehomu vi vame wiadhot jijlinim tahlite pihid rapnisi jo noifo vajdad. Odewsan sownoema ugade lira otwube kov fel kur sircajsam dosje mos vebomoked bucula. Iwuca virezbap hi er zaf zobacu waklada rec wecuzu duimu cosot pa pe vak vo nev sat.",
+    "bio": "Jarac mesfimfoh upa wewhoj baron unisur piwpop id jo jirlef reskez eksicku joh rugilbo mat to. Fomarmar hatgozhov fe ogoza bebhesve uzamujef no lo jipleje gadcabi timev ikicugo. Kodonu ehkusbe mieguze wit uconad be ji ruw te emzopec ufomila wedi kejozce ozsasuke. Vam ij uvowot jeajde gogzoh eveto gezlitfad emima ju sej japap haw. Kahamhev danuz jiwne sujmibew nakgo zig nodobipiw uzinih gepgidno febzu maorgap ihuni we dovnoewu nejfet zatu wibdetew pidvaj. Zurba lieb ruzgatzez ase ubkujih mozje win cuvhuk jipjoule kiwwemas rozner bikefi ezezubi ah tiv tuazalo."
+  },
+  "apiKey": "170f2c03f1413bc4b8beb98a0466a8641a76bfc69e79a48375ef1160cc6632d1",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
