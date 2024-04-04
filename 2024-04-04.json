@@ -1,0 +1,26 @@
+{
+  "name": "Corey Chapman",
+  "age": 63,
+  "address": {
+    "street": "Wola Avenue",
+    "city": "Casdulot",
+    "state": "WA",
+    "zip": "99847"
+  },
+  "contact": {
+    "phone": "(284) 897-3848",
+    "servicePhone": "800441625"
+  },
+  "birthday": "2004-11-21T07:07:11.741Z",
+  "ip": "26.224.57.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Ucobe agi kamemek kom sa om feasi giwozot oliwoh tut ra sakun edakijcij puhuf budle. Kuta gel gazcez inrojgu paccup ewi mihbeiru oc colapo cunaga owusafaz wim itkuwok ivsajoh eti sed jop note. Ji weltez de aho ibaliwwih aju irilap jettemaz favricvur if justus gup.",
+    "bio": "Ah laz ogtum tobdap lanpo nariv nekit lagaren fuwojmo dikku homulip ajjanto azcuf tir. Muj jov labca foaga remabi fanjo urelewli wofelal jir omehefow if lo jon zucbes habvufo. Ragtav feniva ande betuvo duuge ku sep ewu begiga rudwa puwhig pa hanijca jel vurgis it fos. Ewafop gikkif nofo bi mehul felo nokefti luev nohurtel wafe neg wabiju paipo."
+  },
+  "apiKey": "5a6c3cdb34ccf1a97bd9655efda9672714c8be3a5442781a470702950617b584",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
